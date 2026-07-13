@@ -1,27 +1,22 @@
 {
-  "name": "AFK Bot",
-  "bot-account": {
-    "username": "Zerfix",
-    "password": "",
-    "type": "offline"
+  "Account": {
+    "Username": "Bot123",
+    "Password": "ZerfixGoat123",
+    "Type": "offline"
   },
-  "server": {
-    "ip": "Ziolomc.aternos.me",
-    "port": 24925,
-    "version": "",
-    "try-creative": false
+  "Server": {
+    "IP": "Ziolomc.aternos.me",
+    "Port": 24925,
+    "Version": "1.21.1"
+
   },
   "position": {
-    "enabled": true,
-    "x": 0,
-    "y": 100,
-    "z": 0
-  },
-  "utils": {
-    "auto-auth": {
-      "enabled": true,
-      "Register": "chalol78"
-      "password ": "chalol78"
+  "Enabled": true,
+  "X": 100,
+  "Y": 64,
+  "Z": -50
+}
+
     },
     "anti-afk": {
       "enabled": true,
