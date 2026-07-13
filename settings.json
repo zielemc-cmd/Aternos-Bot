@@ -36,14 +36,15 @@
     "auto-reconnect": true,
     "auto-reconnect-delay": 2000,
     "max-reconnect-delay": 120000
-  },
-  "movement": {
+ 
+"movement": {
+  "enabled": true,
+  "circle-walk": {
     "enabled": true,
-    "circle-walk": {
-      "enabled": true,
-      "radius": 4,
-      "speed": 3000
-    },
+    "radius": 4,
+    "speed": 3000
+  }
+}
     "look-around": {
       "enabled": true,
       "interval": 5000
