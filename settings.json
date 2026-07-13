@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Zerfix",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "Ziolomc.aternos.me",
-    "port": 27586,
+    "port": 24925,
     "version": "",
     "try-creative": false
   },
